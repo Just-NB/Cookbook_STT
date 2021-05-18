@@ -1,5 +1,5 @@
 # Cookbook_STT
-Naver STT를 이용한 요리책 앱
+Naver STT를 이용한 요리책 앱 (2017년 개발)
 
 # 언어
 Java
